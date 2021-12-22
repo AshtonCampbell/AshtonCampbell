@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AshtonCampbell
+- 👀 I’m interested in home automation, back-end, ReactJS.
+- 🌱 I’m currently learning firebase.
+- 💞️ I’m looking to collaborate on open-source projects that involve home automation or are back-end related.
+- 📫 How to reach me ashton@acampbell.dev
